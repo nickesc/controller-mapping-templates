@@ -1,39 +1,32 @@
-<style>
-  @import url("https://use.typekit.net/fjd7aat.css");
-
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "lores-15-bold-alt-oakland", sans-serif;
-  }
-
-  
-
-  div, p, a {
-    font-family: "lores-15-narrow";
-    font-size: 1.1em
-  }
-
-  code, .cme {
-    font-family: "lores-9-narrow", sans-serif;
-    font-weight: bold;
-    font-size: .8em
-  }
-
-  .lores15bold, a {
-    font-family: "lores-15";
-  }
-
-  .lores15{
-    font-family: "lores-15-narrow";
-  }
-
-  .lores9 {
-    font-family: "lores-9-wide", sans-serif;
-  }
-
-  ul {
-    list-style-type: square;
-  }
-</style>
+<div style="display: none">
+  <style>
+    @import url("https://use.typekit.net/fjd7aat.css");
+    h1, h2, h3, h4, h5, h6 {
+      font-family: "lores-15-bold-alt-oakland", sans-serif;
+    }
+    div, p, a {
+      font-family: "lores-15-narrow";
+      font-size: 1.1em
+    }
+    code, .cme {
+      font-family: "lores-9-narrow", sans-serif;
+      font-weight: bold;
+      font-size: .8em
+    }
+    .lores15bold, a {
+      font-family: "lores-15";
+    }
+    .lores15{
+      font-family: "lores-15-narrow";
+    }
+    .lores9 {
+      font-family: "lores-9-wide", sans-serif;
+    }
+    ul {
+      list-style-type: square;
+    }
+  </style>
+</div>
 
 <h3 align="center" >
   <!--
