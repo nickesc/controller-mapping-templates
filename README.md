@@ -1,4 +1,4 @@
-<div style="display: none">
+<div style="height:0">
   <style>
     @import url("https://use.typekit.net/fjd7aat.css");
     h1, h2, h3, h4, h5, h6 {
