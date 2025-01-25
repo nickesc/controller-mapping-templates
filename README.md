@@ -64,7 +64,7 @@ To use the templates:
 > - Created/distributed by Kenney ([www.kenney.nl](https://www.kenney.nl))
 > - Creation date: 23-09-2021
 > 
-> License: [Creative Commons Zero, CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+> License: [Creative Commons Zero, CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 >
 > This content is free to use in personal, educational and commercial projects.
 >
@@ -72,7 +72,7 @@ To use the templates:
 > - Patreon:  [https://patreon.com/kenney/](https://patreon.com/kenney/)
 >
 > Follow on Twitter for updates:
-> - [http://twitter.com/KenneyNL](http://twitter.com/KenneyNL)
+> - [https://twitter.com/KenneyNL](https://twitter.com/KenneyNL)
 
 ### Fonts
 
