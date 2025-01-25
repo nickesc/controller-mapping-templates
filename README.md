@@ -1,43 +1,10 @@
-<div style="height:0">
-  <style>
-    @import url("https://use.typekit.net/fjd7aat.css");
-    h1, h2, h3, h4, h5, h6 {
-      font-family: "lores-15-bold-alt-oakland", sans-serif;
-    }
-    div, p, a {
-      font-family: "lores-15-narrow";
-      font-size: 1.1em
-    }
-    code, .cme {
-      font-family: "lores-9-narrow", sans-serif;
-      font-weight: bold;
-      font-size: .8em
-    }
-    .lores15bold, a {
-      font-family: "lores-15";
-    }
-    .lores15{
-      font-family: "lores-15-narrow";
-    }
-    .lores9 {
-      font-family: "lores-9-wide", sans-serif;
-    }
-    ul {
-      list-style-type: square;
-    }
-  </style>
-</div>
+
 
 <h3 align="center" >
   <!--
-  mods color: #1998ca
-  fabric color: #dbb69b
-  modrinth color: #1bd96a
+  itch color: #fa5c5c
   github color: brightgreen
-  sodium color: #83cc72
-  minecraft color: #00AA00
   label color: #505050
-  discord color: #5865F2
   mastodon color: #6364FF
   -->
 
@@ -60,37 +27,34 @@
 </h3>
 
 
-## ~ Overview ~
-
-<span class="lores15bold">Controller Mapping Templates</span> are useful for game developers that want an easy way to build images of controller mappings. Using these templates for your project can be as easy as editing the text and exporting to an image.
+## Overview
+<b>Controller Mapping Templates</b> are useful for game developers that want an easy way to build images of controller mappings. Using these templates for your project can be as simple as editing the text and exporting to an image.
 
 ![Overview](docs/img/Overview.png)
 
 These templates can be used in-game, in manuals, on README documents, or anywhere else you want to show players how to use your game with a controller. All elements have a white backdrop to allow for placement on light or dark surfaces.
 
-The current templates support:
-- <details><summary><h4>Xbox Wireless Controller</h4></summary><img src="docs/img/mappings/Xbox Wireless Controller.png" alt="Xbox Wireless Controller Mapping" width=60%></details>
-- <details><summary><h4>DualSense Controller</h4></summary><img src="docs/img/mappings/DualSense Controller.png" alt="DualSense Controller Mapping" width=60%></details>
-- <details><summary><h4>Switch Pro Controller</h4></summary><img src="docs/img/mappings/Switch Pro Controller.png" alt="Switch Pro Controller Mapping" width=60%></details>
-- <details><summary><h4>Generic Gamepads</h4></summary><img src="docs/img/mappings/Generic Gamepad.png" alt="Generic Gamepad Mapping" width=60%></details>
-- <details><summary><h4>Nintendo 64 Controller</h4></summary><img src="docs/img/mappings/Nintendo 64 Controller.png" alt="Nintendo 64 Controller Mapping" width=60%></details>
+### Currently Supported:
+<details><summary><h4>Xbox Wireless Controller</h4></summary><img src="docs/img/mappings/Xbox Wireless Controller.png" alt="Xbox Wireless Controller Mapping" width=60%></details>
+<details><summary><h4>DualSense Controller</h4></summary><img src="docs/img/mappings/DualSense Controller.png" alt="DualSense Controller Mapping" width=60%></details>
+<details><summary><h4>Switch Pro Controller</h4></summary><img src="docs/img/mappings/Switch Pro Controller.png" alt="Switch Pro Controller Mapping" width=60%></details>
+<details><summary><h4>Generic Gamepads</h4></summary><img src="docs/img/mappings/Generic Gamepad.png" alt="Generic Gamepad Mapping" width=60%></details>
+<details><summary><h4>Nintendo 64 Controller</h4></summary><img src="docs/img/mappings/Nintendo 64 Controller.png" alt="Nintendo 64 Controller Mapping" width=60%></details>
 
-
-
-## ~ Instructions for Use ~
+## Instructions
 
 ### Requirements
-- active <span class="lores15bold">Adobe Creative Cloud subscription</span>
-- <span class="lores15bold">Adobe Illustrator</span>
+- active <b>Adobe Creative Cloud subscription</b>
+- <b>Adobe Illustrator</b>
 - [LoRes font](https://fonts.adobe.com/fonts/lo-res) in your Adobe Font Library
 
 To use the templates:
-1. Download the .zip from the <span class="lores15bold">Download/Releases section & open the Illustrator file inside
-2. Ensure you have added the <span class="lores15bold">‘LoRes’</span> font family to your Adobe Fonts Library
-3. Select individual button labels with the <span class="lores15bold">‘Direct Selection Tool’</span> 
-4. Replace button labels with their actions (e.g. replace <span class="lores15bold">‘Left trigger’</span> with <span class="lores15bold">‘Aim,’</span> & <span class="lores15bold">‘Right trigger’</span> with <span class="lores15bold">‘Fire’</span>)
-5. Export all artboards from the </span>‘Export for Screens’</span> menu with your preferred settings 
-   - For best results: Width @ 3600px, PNG format
+1. Download the .zip from the [Download/Releases section](https://github.com/nickesc/controller-mapping-templates/releases) & open the `templates.ai` Illustrator file inside
+2. Ensure you have added the <b>'LoRes'</b> font family to your Adobe Fonts Library
+3. Select individual button labels with the `Direct Selection Tool`
+4. Replace button labels with their actions (e.g. replace <b>'Left trigger'</b> with <b>'Aim,'</b> & <b>'Right trigger'</b> with <b>'Fire'</b>)
+5. Export all artboards from the `Export for Screens` menu with your preferred settings 
+   - For best results: `Width @ 3600px, PNG format`
 
 ## Credits
 
@@ -113,7 +77,7 @@ To use the templates:
 ### Fonts
 
 #### [Lo-Res](https://fonts.adobe.com/fonts/lo-res)
-> <span class="lores15">LoRes 15</span> <span class="lores9">LoRes 9</span>
+> LoRes 15 & LoRes 9
 > - Designed by Zuzana Licko ([www.zuzanalicko.com](https://www.zuzanalicko.com/)) for [Emigre Fonts](https://www.emigre.com/)
 > - Created in 1985 and 2001
 >
